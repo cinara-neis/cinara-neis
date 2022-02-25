@@ -4,7 +4,7 @@
 ## Bem vindo ao meu mundo <g-emoji class="g-emoji" alias="technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d1-1f4bb.png">🧑‍💻</g-emoji> !
 <br/>
 
-## Sou estudante de Desenvolvimento FrontEnd em Torres - Rs.
+## Sou Desenvolvedora de FrontEnd em Torres - Rs.
 <br/>
 
 <li> <g-emoji class="g-emoji" alias="man_student" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f393.png">👨‍🎓</g-emoji>
