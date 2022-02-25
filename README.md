@@ -11,7 +11,7 @@
     Sou graduada em Analise e Desenvolvimento de Sistemas pela <a href="https://www.uninter.com/" rel="nofollow">UNINTER</a>.
     
 <li> <g-emoji class="g-emoji" alias="man_technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png">👨‍💻</g-emoji>
-       Atualmente trabalho na <a href="https://quanticcode.com/" rel="nofollow">Quantic Companany | Design, Desenvolvimento e Processo</a> como Desenvolvedor react Jr.
+       Atualmente trabalho na <a href="https://quanticcode.com/" rel="nofollow">Quantic Companany | Design, Desenvolvimento e Processo</a> como Desenvolvedor React.Js Jr.
 <li> <g-emoji class="g-emoji" alias="book" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d6.png">📖</g-emoji>
         Estudando e praticando sobre FrontEnd, React, JavaScript, TypeScript e derivados.
   
