@@ -57,6 +57,5 @@
 
 ###
 
-<img href="https://raw.githubusercontent.com/cin/cin/blob/output/snake.svg" alt="Snake animation" />
 
 ###
