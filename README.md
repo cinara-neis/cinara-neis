@@ -1,4 +1,4 @@
-<h2 align="left">Olá! Sou Cinara Neis 👋<br><br>------------------------------------<br><br>Bem vindo ao meu mundo 🧑‍💻 !<br><br>----------------------------------------------------<br><br>Sou Desenvolvedora FrontEnd em Canoas - Rs.<br><br>----------------------------------------------------------------------------------------<br><br>👨‍🎓 Sou graduanda em Analise e Desenvolvimento de Sistemas pela UNINTER.<br><br>👨‍💻 Atualmente trabalho na empresa Mega Embalagens como Estagiária de Infra instrutura <br><br> 👨‍💻 Obtive experiência na Quantic Companany | Design, Desenvolvimento e Processo como Desenvolvedor React.Js Jr.<br><br>📖 Estudando e praticando sobre FrontEnd, React, JavaScript, TypeScript e derivados.<br><br>💻 Experiências: 💙 React | 💙 React-Native  | 🧡 JS | 💜 HTML | 💜 CSS</h2>
+<h2 align="left">Olá! Sou Cinara Neis 👋<br><br>------------------------------------<br><br>Bem vindo ao meu mundo 🧑‍💻 !<br><br>----------------------------------------------------<br><br>Sou Desenvolvedora FrontEnd e Analista de Dados Jr. em Canoas - Rs.<br><br>----------------------------------------------------------------------------------------<br><br>👨‍🎓 Sou graduanda em Analise e Desenvolvimento de Sistemas pela UNINTER.<br><br>👨‍💻 Atualmente trabalho como freelancer na empresa Skydata Consulting no cargo de Analista de Dados Jr.<br><br> 👨‍💻 Obtive experiência na empresa Mega Embalagens como Estagiária de Infra instrutura <br><br> 👨‍💻 Obtive experiência na Quantic Companany | Design, Desenvolvimento e Processo como Desenvolvedor React.Js Jr.<br><br>📖 Estudando e praticando sobre FrontEnd, React, JavaScript, TypeScript, SQL, LookerStudio, Bigquery e derivados.<br><br>💻 Experiências: 💙 React | 💙 React-Native  | 🧡 JS | 💜 HTML | 💜 CSS | 🧡 SQL | 🧡 LookerStudio </h2>
 
 ###
 
@@ -23,8 +23,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" width="42" alt="nextjs logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" width="42" alt="postgresql logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="30" width="42" alt="trello logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" width="42" alt="visualstudio logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" width="42" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" width="42" alt="sql logo"  />
 </div>
 
 ###
